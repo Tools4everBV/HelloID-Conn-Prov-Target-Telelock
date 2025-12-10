@@ -7,9 +7,11 @@ Telelock geeft thuiszorgorganisaties volledige regie over toegang tot cliëntwon
 Tools4ever is Certified Partner van Telelock en beschikt over een gecertificeerde koppeling met de mijntelelock cloudomgeving. Telelock wordt in HelloID ingericht als target connector. Hierdoor verwerkt HelloID elke wijziging uit het HR-systeem en houdt het zowel de Telelock-accounts als de digitale toegangsrechten van medewerkers automatisch up-to-date. De communicatie tussen HelloID en Telelock verloopt via de Telelock API. Organisaties bepalen zelf welke attributen worden gesynchroniseerd en welke beleidsregels van toepassing zijn.
 
 **Automatisch beheer van gebruikersaccounts**
+
 Wanneer een nieuwe medewerker wordt aangemaakt in het HR-systeem, maakt HelloID automatisch een Telelock-account aan. Ook wijzigingen in persoonsgegevens, functie of werkgebied worden doorgegeven aan Telelock. Bij uitdiensttreding worden Telelock-accounts direct gedeactiveerd en alle toegangsrechten ingetrokken.
 
 **Automatische toegang voor cliëntenwoningen en appartementencomplexen**
+
 Telelock regelt veilige digitale toegang tot woningen van cliënten en centrale toegangsdeuren. HelloID kent deze toegangsrechten automatisch toe op basis van functie, team of locatie. Wijzigt een medewerker van werkgebied, dan past HelloID de Telelock-toegang direct aan. Tijdelijke toegang, bijvoorbeeld voor invalkrachten, wordt eveneens automatisch toegekend en ingetrokken.
 
 ## HelloID voor Telelock helpt je met
@@ -24,7 +26,6 @@ Veelvoorkomende koppelingen zijn:
 
 * **AFAS – Telelock**  
 Door AFAS via HelloID aan Telelock te koppelen, worden personeelsmutaties automatisch verwerkt. Nieuwe medewerkers krijgen direct de juiste digitale toegang en wijzigingen in het HR-dossier worden doorgezet. Bij het bereiken van de uitdiensdatum worden Telelock-accounts gedeactiveerd en toegangsrechten ingetrokken.
-
 * **Visma Raet – Telelock**  
 Door Visma Raet via HelloID aan Telelock te koppelen, worden personeels- en functiewijzigingen automatisch gesynchroniseerd. Nieuwe medewerkers worden toegevoegd en bestaande accounts blijven actueel. Zo sluiten toegangsrechten altijd aan op de laatste HR-gegevens.
 
